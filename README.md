@@ -12,6 +12,7 @@
 
 В процессе тестирования использовались следующие артефакты:
 * Checklist
+* Bug Reports
 
 В качестве тестовых данных использовались данные <https://www.freeformatter.com/credit-card-number-generator-validator.html>:
 
