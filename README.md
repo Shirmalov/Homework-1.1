@@ -17,19 +17,25 @@
 
 ### VISA:
 * 4485468531848351 - Result is OK
+* 416020390117 - Result is FAIL
 * 44854685318483$% - Result is FAIL
 * 44853231794651qw - Result is FAIL
 * 4539719055110841664 - Result is FAIL
 ### MasterCard:
 * 5565395391636354 - Result is OK
+* 272099819941 - Result is FAIL
 * 52827645194047!@ - Result is FAIL
 * 51767740858269sd - Result is FAIL
 * 2221008733271821321 - Result is FAIL
-### Visa Electron:
-* 4917885214258822 - Result is OK
-* 49170240159990$% - Result is FAIL
-* 41750056201469fd - Result is FAIL
-* 4175005620146936459 - Result is FAIL
+### American Express (AMEX):
+* 379875758579021 - Result is FAIL
+* 346508939665126 - Result is FAIL
+### Diners Club - Carte Blanche
+* 30411389291306 - Result is FAIL
+* 30157618115069 - Result is FAIL
+### Diners Club - International
+* 36105223693388 - Result is FAIL
+* 36349872191308 - Result is FAIL
 
 Тестирование производилось в следующем окружении:
 * Windows 10 Pro 20H2, 64-Bit
