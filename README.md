@@ -19,26 +19,30 @@
 В качестве тестовых данных использовались данные <https://www.freeformatter.com/credit-card-number-generator-validator.html>:
 
 ### VISA:
-* 4485468531848351 - Result is OK
-* 416020390117 - Result is FAIL
-* 44854685318483$% - Result is FAIL
-* 44853231794651qw - Result is FAIL
-* 4539719055110841664 - Result is FAIL
+* 4556883704923456 - Result is OK
 ### MasterCard:
-* 5565395391636354 - Result is OK
-* 272099819941 - Result is FAIL
-* 52827645194047!@ - Result is FAIL
-* 51767740858269sd - Result is FAIL
-* 2221008733271821321 - Result is FAIL
-### American Express (AMEX):
-* 379875758579021 - Result is FAIL
-* 346508939665126 - Result is FAIL
-### Diners Club - Carte Blanche
-* 30411389291306 - Result is FAIL
-* 30157618115069 - Result is FAIL
-### Diners Club - International
-* 36105223693388 - Result is FAIL
-* 36349872191308 - Result is FAIL
+* 2221006486297670 - Result is OK
+### Discover:
+* 6011518788131113 - Result is OK
+### JCB:
+* 3544932387938021 - Result is OK
+### Diners Club - North America:
+* 5448138985449344 - Result is OK
+### Maestro:
+* 6759855262222158 - Result is OK
+### Visa Electron:
+* 4026385406606456 - Result is OK
+### InstaPayment:
+* 6383232500990679 - Result is OK
+
+### Diners Club - Carte Blanche:
+* 30246899485067 - Result is FAIL
+### Diners Club - International:
+* 36947957268469 - Result is FAIL
+
+
+
+
 
 Тестирование производилось в следующем окружении:
 * Windows 10 Pro 20H2, 64-Bit
