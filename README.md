@@ -7,8 +7,8 @@
 На тестирование затрачено: 3 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Shirmalov/Homework-1.1/issues/1
-* https://github.com/Shirmalov/Homework-1.1/issues/2
+* [Issues 1](https://github.com/Shirmalov/Homework-1.1/issues/1)
+* [Issues 2](https://github.com/Shirmalov/Homework-1.1/issues/2)
 
 ## Описание процесса тестирования
 
